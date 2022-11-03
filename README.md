@@ -5,6 +5,8 @@
  sql
  https://sqlbolt.com/lesson/select_queries_with_aggregates
  
+ sql-easy.com/es
+ 
  Excel 
  https://excel-practice-online.com/
  
